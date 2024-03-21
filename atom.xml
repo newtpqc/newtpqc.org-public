@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+
+ <title>newtpqc</title>
+ <link href="https://newtpqc.org//atom.xml" rel="self"/>
+ <link href="https://newtpqc.org//"/>
+ <updated>2024-03-21T07:49:43-05:00</updated>
+ <id>https://newtpqc.org/</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>New Trends in Post-Quantum Cryptography</title>
+   <link href="https://newtpqc.org//2024/02/11/overview/"/>
+   <!-- <updated>2024-02-11T00:00:00-06:00</updated> -->
+   <id>https://newtpqc.org//2024/02/11/overview</id>
+   <content type="html">&lt;p&gt;The New Trends in Post-Quantum Cryptography workshop, or newtpqc, is an affiliated event of PQCrypto 2024 on Monday 10 June and Tuesday 11 June 2024, organised at the Mathematical Institute, University of Oxford. The goal of this workshop is to discuss the most recent and exciting trends of post-quantum cryptography.&lt;/p&gt;
+
+&lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;Coming soon.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
